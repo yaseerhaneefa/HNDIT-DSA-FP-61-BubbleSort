@@ -1,6 +1,6 @@
 # Bubble Sort
 
-**Author Name**: Your Name  
+**Author Name**: M.H.M YASEER  
 **Index Number**: BAT/IT/2022/P/61  
 
 ## Project Description
